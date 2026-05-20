@@ -1,0 +1,9 @@
+# Arquivos de desenvolvimento local
+serve.ps1
+.claude/
+
+# Arquivos sem extensão (criados por acidente)
+pit
+assets/images/pit
+assets/fonts/pit
+assets/images/speakers/pit
